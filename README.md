@@ -1,2 +1,2 @@
 # meu-primeiro-rep
-meu primeiro repositório
+Meu primeiro repositório pela Cubos Academy
